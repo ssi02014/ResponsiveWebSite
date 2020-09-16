@@ -33,6 +33,6 @@
 
 <h3>/* 2020-09-16 */</h3>
  <ol>
-  <li>slick.js를 이용한 슬라이드 효과</li>
+  <li>column4의 slick.js를 이용한 슬라이드 효과</li>
  </ol>
 <br>
