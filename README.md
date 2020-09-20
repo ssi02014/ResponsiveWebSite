@@ -36,3 +36,27 @@
   <li>column4의 slick.js를 이용한 슬라이드 효과</li>
  </ol>
 <br>
+
+<h3>/* 2020-09-20 */</h3>
+ <ol>
+  <li>
+  라이트 박스 구현
+	  <ol>
+	  	<h2>효과 종류</h2>
+		<li>blur</li>
+		<li>brightness</li>
+		<li>contrast</li>
+		<li>grayscale</li>
+		<li>hur-rotate</li>
+		<li>invert</li>
+		<li>opacity</li>
+		<li>saturate</li>
+		<li>sepia</li>
+		<li>Mix</li>
+	  </ol>
+  </li>
+  <li>반응형 비디오 구현</li>
+  <li>cont_right 구현</li>
+  <li>footer 구현</li>
+ </ol>
+<br>
