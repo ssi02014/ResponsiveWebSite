@@ -42,7 +42,7 @@
   <li>
   라이트 박스 구현
 	  <ul>
-	  	<h2>효과 종류</h2>
+	  	<h5>효과 종류</h2>
 		<li>blur</li>
 		<li>brightness</li>
 		<li>contrast</li>
