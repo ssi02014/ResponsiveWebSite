@@ -41,8 +41,8 @@
  <ol>
   <li>
   라이트 박스 구현
-	  <ul>
-	  	<h5>효과 종류</h2>
+	  <ol>
+	  	<h2>효과 종류</h2>
 		<li>blur</li>
 		<li>brightness</li>
 		<li>contrast</li>
@@ -53,10 +53,17 @@
 		<li>saturate</li>
 		<li>sepia</li>
 		<li>Mix</li>
-	  </ul>
+	  </ol>
   </li>
   <li>반응형 비디오 구현</li>
   <li>cont_right 구현</li>
   <li>footer 구현</li>
+ </ol>
+<br>
+
+<h3>/* 2020-09-21 */</h3>
+ <ol>
+  <li>nav 접기, 펼치기 효과 구현</li>
+  <li>Side Image1,2,3 Effect 구현</li>
  </ol>
 <br>

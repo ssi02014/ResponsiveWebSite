@@ -326,9 +326,12 @@
                         <p class="col_desc">CSS의 transform을 이용한 마우스 오버 효과</p>
                         <!--side1-->
                         <div class="side1">
-                            <figure>
+                            <figure class="front">
                                 <img src="img/side1.jpg" alt="이미지1">
                             </figure>
+                            <div class="back">
+                                <i class="fa fa-heart" aria-hidden="true"></i>
+                            </div>
                         </div>
                         <!-- //side1-->
                     </article>
@@ -338,8 +341,17 @@
                         <p class="col_desc">CSS의 transform을 이용한 마우스 오버 효과</p>
                         <!--side2-->
                         <div class="side2">
-                            <figure>
+                            <figure class="front">
                                 <img src="img/side2.jpg" alt="이미지1">
+                                <figcaption>
+                                    Hover Effect
+                                </figcaption>
+                            </figure>
+                            <figure class="back">
+                                <img src="img/side4.jpg" alt="이미지1">
+                                <figcaption>
+                                    Hover Effect
+                                </figcaption>
                             </figure>
                         </div>
                         <!-- //side2-->
@@ -352,6 +364,9 @@
                         <div class="side3">
                             <figure>
                                 <img src="img/side3.jpg" alt="이미지1">
+                                <figcaption>
+                                    <h3>Hover <em>Effect</em></h3>
+                                </figcaption>
                             </figure>
                         </div>
                         <!-- //side3-->
@@ -399,10 +414,32 @@
     <script src="js/custom.js"></script>
     
     <script>
+        //접기, 펼치기
+        $(".btn").click(function(e){
+            e.preventDefault();
+            $(".nav").slideToggle();
+            $(".btn").toggleClass("open");
+
+            if( $(".btn").hasClass("open") ){
+                //open이 있을 때
+                $(".btn").find("i").attr("class","fa fa-angle-up");
+            } else {
+                //open이 없을 때
+                $(".btn").find("i").attr("class","fa fa-angle-down");
+            }
+        });
+
+        $(window).resize(function(){
+            var wWidth = $(window).width();
+            if(wWidth > 600){
+                $(".nav").removeAttr("style");
+            }
+        })
 
         // 라이트 박스
         $(".lightbox").lightGallery({
         });
+
         //이미지 슬라이더
         $(".slider").slick({
             dots: true,
