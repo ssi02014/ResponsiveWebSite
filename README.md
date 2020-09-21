@@ -2,9 +2,17 @@
 
 <h3> 사용 스킬: HTML CSS JavaScript(JQuery)</h3>
 
+<h2>웹 페이지 화면</h2>
+
 ![1](https://user-images.githubusercontent.com/64779472/93800827-1cf23100-fc7c-11ea-9ca9-eea5d11964ab.PNG)
 
 ![2](https://user-images.githubusercontent.com/64779472/93800831-1e235e00-fc7c-11ea-8e42-9ca348962595.PNG)
+
+<h2>W3C HTML, CSS 검사</h2>
+
+![3](https://user-images.githubusercontent.com/64779472/93802630-ae62a280-fc7e-11ea-998c-e6e400129fbd.PNG)
+
+![4](https://user-images.githubusercontent.com/64779472/93802634-aefb3900-fc7e-11ea-9031-a88ecf316943.PNG)
 
 
 <h3>/* 2020-09-09 */</h3>
