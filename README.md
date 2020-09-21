@@ -1,5 +1,12 @@
 # ResponsiveWebSite
 
+<h3> 사용 스킬: HTML CSS JavaScript(JQuery)</h3>
+
+![1](https://user-images.githubusercontent.com/64779472/93800827-1cf23100-fc7c-11ea-9ca9-eea5d11964ab.PNG)
+
+![2](https://user-images.githubusercontent.com/64779472/93800831-1e235e00-fc7c-11ea-8e42-9ca348962595.PNG)
+
+
 <h3>/* 2020-09-09 */</h3>
  <ol>
   <li>레이아웃</li>
