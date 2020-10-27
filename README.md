@@ -1,6 +1,7 @@
 # ResponsiveWebSite
 
 <h3> 사용 스킬: HTML CSS JavaScript(JQuery)</h3>
+<h3> Click URL: https://ssi02014.github.io/ResponsiveWebSite/ </h3>
 
 <h2>웹 페이지 화면</h2>
 
