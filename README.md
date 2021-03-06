@@ -1,6 +1,6 @@
 # 💻 ResponsiveWebSite
 
-### HTML, CSS, JS(Jquery)를 이용해서 만든 W3C 웹 표준 준수 사이트 (반응형X)
+### HTML, CSS, JS(Jquery)를 이용해서 만든 W3C 웹 표준 준수 반응형 사이트
 ### ⭐ Github Page : https://ssi02014.github.io/ResponsiveWebSite/
 
 <br />
@@ -16,7 +16,7 @@
 <hr />
 <br />
 
-## W3C Check
+## 🎥 W3C Check
 
 ![3](https://user-images.githubusercontent.com/64779472/93802630-ae62a280-fc7e-11ea-998c-e6e400129fbd.PNG)
 
@@ -33,6 +33,9 @@
 1. HTML
 2. CSS
 3. JavaScript(Jquery)
+
+<br />
+<br />
 
 ## 📈 HTML 관련 학습 내용 또는 이슈
 ### 🔍 1. favicon 적용
@@ -82,8 +85,9 @@
   <iframe 
     src="https://www.youtube.com/embed/dPRtcRwKo-Y?list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf" 
     frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  </iframe>
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+  ></iframe>
 ```
 
 <br />
@@ -152,6 +156,7 @@
 ```
 
 ```javascript
+  // jquery code
   $(".slider").slick({
       dots: true,
       autoplay: true,
@@ -224,7 +229,7 @@
 ``` 
 
 ```javascript
-  // 라이트 박스
+  //jquery code
   $(".lightbox").lightGallery({
     ...
   });
