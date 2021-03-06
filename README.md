@@ -65,7 +65,7 @@
 
 <br />
 
-### 🔍 2. 반응형 이미지
+### 🔍 3. 반응형 이미지
 ```html
   반응형 이미지: 해상도, 스크린 크기 등이 다른 수많은 기기들에서 정상적으로 표시되는 이미지
   
@@ -79,7 +79,7 @@
 
 <br />
 
-### 🔍 3. Youtube 영상 가져오기
+### 🔍 4. Youtube 영상 가져오기
 ```html
   <!-- Youtube 영상 가져오기 사용 예시 -->
   <iframe 
@@ -183,7 +183,7 @@
   <!-- script insert -->
   <script src="js/lightgallery.min.js"></script>
 
-  <!--light box-->
+  <!--html code-->
   <div class="lightbox square clearfix">
     <a href="img/light01_s.jpg">
         <img src="img/light01.jpg" alt="이미지">
