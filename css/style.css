@@ -853,9 +853,7 @@ header .header_icon li a:hover {
 }
 
 /* 화면 너비 0 ~ 480px : 모바일 */ 
-@media (max-width:480px){
-    
-}
+@media (max-width:480px){}
 
 /* 화면 너비 0 ~ 320px : 모바일 */ 
 @media (max-width:320px){
